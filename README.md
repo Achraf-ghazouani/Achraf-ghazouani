@@ -1,28 +1,91 @@
+<!-- 🔥 HEADER BANNER -->
 [![MasterHead](https://raw.githubusercontent.com/sakanfar-dev/BANNER/613681f8ec179cabcda4c99ba30bbb0129382a1c/BANNER.png)](https://raw.githubusercontent.com/sakanfar-dev/BANNER/613681f8ec179cabcda4c99ba30bbb0129382a1c/BANNER.png)
 
+<h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF">Achraf Ghazouani</span></h1>
+<h3 align="center">🎮 Game Developer | Unity C# | 3D Artist | AR & VR Enthusiast</h3>
 
-<h1 align="center">Hi 👋, I'm Achraf Ghazouani</h1>
-<h3 align="center">I'm a Beginner 3D artist and game developer</h3>
-<div align="center">
-🌱 I’m currently learning **Unreal Ungine 5**
-
-💬 Ask me about **Game dev or 3d modeling**
-
-📫 How to reach me **achraf.ghazouani5@gmail.com**
-
-📄 Know about my experiences [https://www.linkedin.com/in/achrafghazouani/](https://www.linkedin.com/in/achrafghazouani/)
-  </div>
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/sakanfar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakanfar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/achraf ghazouani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achraf ghazouani" height="30" width="40" /></a>
-<a href="https://fb.com/achraf ghazouani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="achraf ghazouani" height="30" width="40" /></a>
-<a href="https://instagram.com/sakanfar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sakanfar" height="30" width="40" /></a>
-<a href="https://www.behance.net/achraf ghazouani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="achraf ghazouani" height="30" width="40" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Building+worlds+one+line+of+code+at+a+time.;Game+Developer+%7C+3D+Artist+%7C+Tech+Dreamer.;Unity+%26+C%23+are+my+playground." alt="typing animation"/>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
+### 🧠 About Me
 
+🎯 **Unity Game Developer** specialized in **Android, iOS, Windows, AR & VR**  
+🎨 **3D Artist** passionate about bringing imagination to life with **Blender**  
+🧩 Experienced in **C# gameplay systems**, **prototyping**, and **game UX**  
+🚀 Constantly learning and experimenting with **Unreal Engine 5**  
+📬 **Contact me:** achraf.ghazouani5@gmail.com  
+🔗 **Portfolio / LinkedIn:** [LinkedIn](https://www.linkedin.com/in/achrafghazouani/)  
 
+---
+
+### 🌍 Platforms I Develop For
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-%2300C853.svg?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Virtual_Reality-%238B00FF.svg?style=for-the-badge&logo=oculus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Augmented_Reality-%2300E5FF.svg?style=for-the-badge&logo=unity&logoColor=white" />
+</p>
+
+---
+
+### 🧩 Tech Stack & Tools
+<p align="center">
+  <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="45"/></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45"/></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="45"/></a>
+  <a href="https://www.blender.org/" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="45"/></a>
+  <a href="https://unrealengine.com/" target="_blank"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/master/icons/svg/brand/unreal-engine.svg" width="45"/></a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="45"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/></a>
+</p>
+
+---
+
+### 🕹️ Featured Projects
+
+#### 🧱 **Block Breaker (Unity)**
+> A stylized, kid-friendly brick breaker game with smooth visuals and dynamic difficulty.
+
+#### 🏝️ **Phonics Explorer**
+> 3D educational adventure that teaches phonetics through exploration and mini-games (Unity 6).
+
+#### ⚽ **GCM Football Farm**
+> Football-themed simulation game where players grow and train footballers for the Goal Chain ecosystem.
+
+*(More exciting projects are on the way!)*
+
+---
+
+### ⚙️ Workflow & Focus
+- 🎮 Game Design & Prototyping  
+- 🧠 Gameplay Programming (C#)  
+- 🎨 3D Modeling, Texturing & Animation  
+- 🌐 Cross-platform builds (Android, iOS, Windows, WebGL)  
+- 🥽 AR/VR Interaction Systems  
+- 💾 Git & LFS for version control  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=achraf-ghazouani&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achraf-ghazouani&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://twitter.com/sakanfar" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>
+  <a href="https://www.linkedin.com/in/achrafghazouani/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+  <a href="https://www.instagram.com/sakanfar/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
+  <a href="https://www.behance.net/achrafghazouani" target="_blank"><img src="https://skillicons.dev/icons?i=behance" width="45"/></a>
+</p>
+
+---
+
+<h3 align="center">⭐ “Build worlds. Play harder. Keep creating.”</h3>
