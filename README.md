@@ -1,91 +1,95 @@
-<!-- 🔥 HEADER BANNER -->
-[![MasterHead](https://raw.githubusercontent.com/sakanfar-dev/BANNER/613681f8ec179cabcda4c99ba30bbb0129382a1c/BANNER.png)](https://raw.githubusercontent.com/sakanfar-dev/BANNER/613681f8ec179cabcda4c99ba30bbb0129382a1c/BANNER.png)
+<!-- 🌌 HEADER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sakanfar-dev/BANNER/613681f8ec179cabcda4c99ba30bbb0129382a1c/BANNER.png" width="100%" alt="header banner"/>
+</p>
 
-<h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF">Achraf Ghazouani</span></h1>
-<h3 align="center">🎮 Game Developer | Unity C# | 3D Artist | AR & VR Enthusiast</h3>
+<h1 align="center">🎮 Hey there, I'm <span style="color:#00BFFF;">Achraf Ghazouani</span> 👋</h1>
+<h3 align="center">Game Developer | Unity (C#) | 3D Artist | AR & VR Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Building+worlds+one+line+of+code+at+a+time.;Game+Developer+%7C+3D+Artist+%7C+Tech+Dreamer.;Unity+%26+C%23+are+my+playground." alt="typing animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Creating+Worlds+%F0%9F%8C%8D;Designing+Gameplay+Mechanics+%F0%9F%8E%AE;Building+for+Android+iOS+Windows+VR+AR+%F0%9F%8C%90;Let's+Play+and+Create!+%F0%9F%8E%88" alt="typing animation">
 </p>
 
 ---
 
 ### 🧠 About Me
-
-🎯 **Unity Game Developer** specialized in **Android, iOS, Windows, AR & VR**  
-🎨 **3D Artist** passionate about bringing imagination to life with **Blender**  
-🧩 Experienced in **C# gameplay systems**, **prototyping**, and **game UX**  
-🚀 Constantly learning and experimenting with **Unreal Engine 5**  
-📬 **Contact me:** achraf.ghazouani5@gmail.com  
-🔗 **Portfolio / LinkedIn:** [LinkedIn](https://www.linkedin.com/in/achrafghazouani/)  
+- 🕹️ **Unity Game Developer** building immersive experiences across **Android, iOS, Windows, VR & AR**  
+- 🎨 **3D Artist** shaping low-poly & stylized worlds in **Blender**  
+- ⚙️ Passionate about **game mechanics, AI behavior,** and **interactive storytelling**  
+- 🧩 Currently experimenting with **Unreal Engine 5**  
+- 📫 Reach me: **achraf.ghazouani5@gmail.com**  
+- 🌐 Portfolio: [LinkedIn](https://www.linkedin.com/in/achrafghazouani/)  
 
 ---
 
-### 🌍 Platforms I Develop For
+### ⚔️ Platforms I Build For
 <p align="center">
-  <img src="https://img.shields.io/badge/Android-%2300C853.svg?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Virtual_Reality-%238B00FF.svg?style=for-the-badge&logo=oculus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Augmented_Reality-%2300E5FF.svg?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Virtual_Reality-8B00FF?style=for-the-badge&logo=oculus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Augmented_Reality-00E5FF?style=for-the-badge&logo=unity&logoColor=white"/>
 </p>
 
 ---
 
 ### 🧩 Tech Stack & Tools
 <p align="center">
-  <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="45"/></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45"/></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="45"/></a>
-  <a href="https://www.blender.org/" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="45"/></a>
-  <a href="https://unrealengine.com/" target="_blank"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/master/icons/svg/brand/unreal-engine.svg" width="45"/></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="45"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/></a>
+  <img src="https://skillicons.dev/icons?i=unity,cs,blender,unreal,photoshop,git,visualstudio" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="80" alt="controller gif"/>  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTd2ZzFqYXhsZzZrNnZybWx5bTViaXAyYmQ0c2p1OGpsZ2RrNjh5cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="80" alt="code gif"/>  
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="80" alt="dev gif"/>  
 </p>
 
 ---
 
 ### 🕹️ Featured Projects
 
-#### 🧱 **Block Breaker (Unity)**
-> A stylized, kid-friendly brick breaker game with smooth visuals and dynamic difficulty.
+#### 🎯 **Block Breaker**
+> 🔹 A stylized brick breaker for kids with randomized levels and colorful effects.  
+> 🛠️ Unity | C# | 2D Physics  
 
-#### 🏝️ **Phonics Explorer**
-> 3D educational adventure that teaches phonetics through exploration and mini-games (Unity 6).
+#### 🌴 **Phonics Explorer**
+> 🔹 3D educational adventure that helps kids learn syllables through play.  
+> 🧠 Unity 6 | C# | Voice System | UI Design  
 
 #### ⚽ **GCM Football Farm**
-> Football-themed simulation game where players grow and train footballers for the Goal Chain ecosystem.
-
-*(More exciting projects are on the way!)*
-
----
-
-### ⚙️ Workflow & Focus
-- 🎮 Game Design & Prototyping  
-- 🧠 Gameplay Programming (C#)  
-- 🎨 3D Modeling, Texturing & Animation  
-- 🌐 Cross-platform builds (Android, iOS, Windows, WebGL)  
-- 🥽 AR/VR Interaction Systems  
-- 💾 Git & LFS for version control  
+> 🔹 Train and evolve your football players in a simulation ecosystem connected to Goal Chain.  
+> 🏗️ Unity | Game Data System | Economy Simulation  
 
 ---
 
-### 📊 GitHub Stats
+### ⚙️ My Workflow Focus
+🧠 Gameplay Logic • 🎮 Game Design • 🧱 Level Building  
+🎨 Asset Integration • 🧩 UI/UX • 🥽 VR/AR Mechanics  
+💾 Version Control (Git + LFS) • 🔥 Optimization for Mobile
+
+---
+
+### 💻 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=achraf-ghazouani&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achraf-ghazouani&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=achraf-ghazouani&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=achraf-ghazouani&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achraf-ghazouani&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://twitter.com/sakanfar" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>
-  <a href="https://www.linkedin.com/in/achrafghazouani/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-  <a href="https://www.instagram.com/sakanfar/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
-  <a href="https://www.behance.net/achrafghazouani" target="_blank"><img src="https://skillicons.dev/icons?i=behance" width="45"/></a>
+  <a href="https://twitter.com/sakanfar"><img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>
+  <a href="https://www.linkedin.com/in/achrafghazouani/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+  <a href="https://www.instagram.com/sakanfar/"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
+  <a href="https://www.behance.net/achrafghazouani"><img src="https://skillicons.dev/icons?i=behance" width="45"/></a>
 </p>
 
 ---
 
-<h3 align="center">⭐ “Build worlds. Play harder. Keep creating.”</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250" alt="controller animation"/>
+</p>
+
+<h3 align="center">⭐ “Play. Build. Inspire.” ⭐</h3>
