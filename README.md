@@ -1,6 +1,6 @@
 <!-- 🌌 HEADER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sakanfar-dev/BANNER/613681f8ec179cabcda4c99ba30bbb0129382a1c/BANNER.png" width="100%" alt="header banner"/>
+  <img src="https://github.com/Achraf-ghazouani/BANNER/blob/main/BANNER.png" width="100%" alt="header banner"/>
 </p>
 
 <h1 align="center">🎮 Hey there, I'm <span style="color:#00BFFF;">Achraf Ghazouani</span> 👋</h1>
