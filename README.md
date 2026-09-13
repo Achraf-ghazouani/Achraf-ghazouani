@@ -1,326 +1,398 @@
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                    SAKANFAR  ×  ACHRAF                      -->
-<!-- ████████████████████████████████████████████████████████████ -->
+<!-- ========================================================= -->
+
+<!--             ACHRAF GHAZOUANI — GITHUB PROFILE              -->
+
+<!--                  SAKANFAR PRODUCTIONS                       -->
+
+<!-- ========================================================= -->
+
+<!-- Animated hero -->
 
 <div align="center">
-  <img src="https://github.com/Achraf-ghazouani/BANNER/raw/main/BANNER.png" width="100%" alt="banner"/>
-</div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=6&section=header" width="100%"/>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,35:24135F,70:534AB7,100:00E5A8&text=ACHRAF%20GHAZOUANI&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=GAME%20DEVELOPER%20%E2%80%A2%20UNITY%20TOOLS%20%E2%80%A2%20MULTIPLAYER&descAlignY=58&descSize=15&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2200&pause=650&color=00E5A8&center=true&vCenter=true&repeat=true&width=900&height=55&lines=%F0%9F%8E%AE+Building+Games+with+Unity+%26+C%23;%F0%9F%9A%B2+Building+a+Chaotic+Flying+Co-op+Adventure;%F0%9F%A7%B0+Creating+Tools+for+Unity+Developers;%F0%9F%8C%90+Multiplayer+%E2%80%A2+Physics+%E2%80%A2+AR%2FVR;%F0%9F%9A%80+Founder+of+Sakanfar+Productions" alt="Typing animation"/>
 
 <br/>
 
-<div align="center">
+<a href="https://sakanfar-productions.vercel.app">
+<img src="https://img.shields.io/badge/SAKANFAR_PRODUCTIONS-534AB7?style=for-the-badge&logo=unity&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://assetstore.unity.com/publishers/117240">
+<img src="https://img.shields.io/badge/UNITY_ASSET_STORE-00B894?style=for-the-badge&logo=unity&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/achrafghazouani/">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-```
-  ██████╗  █████╗ ███╗   ███╗███████╗    ██████╗ ███████╗██╗   ██╗
- ██╔════╝ ██╔══██╗████╗ ████║██╔════╝    ██╔══██╗██╔════╝██║   ██║
- ██║  ███╗███████║██╔████╔██║█████╗      ██║  ██║█████╗  ██║   ██║
- ██║   ██║██╔══██║██║╚██╔╝██║██╔══╝      ██║  ██║██╔══╝  ╚██╗ ██╔╝
- ╚██████╔╝██║  ██║██║ ╚═╝ ██║███████╗    ██████╔╝███████╗ ╚████╔╝
-  ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝    ╚═════╝ ╚══════╝  ╚═══╝
-```
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=achraf-ghazouani&style=for-the-badge&color=534AB7&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/achraf-ghazouani?style=for-the-badge&color=00B894&labelColor=0D1117&logo=github"/>
 
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2500&pause=800&color=534AB7&center=true&vCenter=true&width=700&lines=🎮+Unity+Game+Developer;🥽+AR+%26+VR+Builder;🎨+3D+Artist+%7C+Blender;🏢+Founder+%40+Sakanfar+Productions;🌍+2%2C000%2B+Developers+Reached;⚡+Play.+Build.+Inspire." alt="Typing SVG" />
+
+🟢 PLAYER_01 // ONLINE
+
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/▶_SAKANFAR_PRODUCTIONS-534AB7?style=for-the-badge&logoColor=white&labelColor=26215C"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Unity_Asset_Store_%23117240-1D9E75?style=for-the-badge&logo=unity&logoColor=white&labelColor=085041"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/2%2C000%2B_Devs_Reached-534AB7?style=for-the-badge&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/★★★★_Rated-BA7517?style=for-the-badge&logoColor=white"/>
-</div>
-
-<br/>
-
----
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp; `> WHO_AM_I`
 
 <table>
 <tr>
-<td width="55%">
+<td width="58%" valign="top">
 
-```yaml
-name:     Achraf Ghazouani
-role:     Unity Game Developer & 3D Artist
-studio:   Sakanfar Productions
-location: Tunisia 🇹🇳 — Available Worldwide
-focus:
-  - AR & VR Experiences
-  - Game Mechanics & AI Behavior
-  - Interactive Storytelling
-  - Unity Asset Publishing
-exploring: Unreal Engine 5
-contact:  achraf.ghazouani5@gmail.com
-motto:    "Play. Build. Inspire."
-```
+PLAYER:
+  name: "Achraf Ghazouani"
+  class: "Game Developer"
+  guild: "Sakanfar Productions"
+  location: "Tunisia 🇹🇳"
+
+MAIN_SKILLS:
+  - Unity / C#
+  - Gameplay Programming
+  - Multiplayer Networking
+  - Physics-Based Systems
+  - Unity Editor Tools
+  - AR / VR
+  - Blender / Low-Poly 3D
+
+CURRENT_QUEST:
+  "Build a chaotic co-op flying tandem bicycle adventure"
+
+SIDE_QUEST:
+  "Create useful Unity tools developers actually use"
+
+STATUS:
+  open_to: "Collaboration • Game Dev • Unity Tools"
 
 </td>
-<td width="45%" align="center">
+<td width="42%" align="center">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" alt="gamedev gif"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=achraf-ghazouani&theme=tokyonight&animation=rgb-soft" width="100%" alt="GitHub stats"/>
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+
+⚡ LIVE_DEV_DASHBOARD
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=achraf-ghazouani&theme=tokyonight&animation=sequence" width="95%" alt="Profile details"/>
+
 <br/>
 
----
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=achraf-ghazouani&theme=tokyonight&animation=load" width="46%" alt="Repositories per language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=achraf-ghazouani&theme=tokyonight&animation=load" width="46%" alt="Most committed languages"/>
 
-## 🎮 &nbsp; `> PLATFORMS`
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=achraf-ghazouani&theme=tokyonight&utcOffset=1&animation=rise" width="46%" alt="Productive time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=achraf-ghazouani&theme=tokyonight&animation=stagger" width="46%" alt="GitHub stats"/>
+
+</div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=1a6b3a"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/iOS-AAAAAA?style=for-the-badge&logo=apple&logoColor=black&labelColor=888888"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=004a8f"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Virtual_Reality-534AB7?style=for-the-badge&logo=oculus&logoColor=white&labelColor=26215C"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Augmented_Reality-1D9E75?style=for-the-badge&logo=unity&logoColor=white&labelColor=085041"/>
+
+🏆 ACHIEVEMENTS_UNLOCKED
+
+<img src="https://github-profile-trophy.vercel.app/?username=achraf-ghazouani&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" width="95%" alt="GitHub trophies"/>
+
+</div>
+
+<div align="center">
+
+🛠️ TECH_LOADOUT
+
+🎮 Core
+
+<img src="https://skillicons.dev/icons?i=unity,cs,blender,unreal&theme=dark" />
+
+💻 Development
+
+<img src="https://skillicons.dev/icons?i=visualstudio,git,github,js&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/UNITY-0D1117?style=for-the-badge&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-6A0DAD?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/MIRROR-00E5A8?style=for-the-badge&logo=unity&logoColor=111111"/>
+<img src="https://img.shields.io/badge/PHOTON_FUSION-534AB7?style=for-the-badge&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/AR_FOUNDATION-00B8D9?style=for-the-badge&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/DOTWEEN-FF4D8D?style=for-the-badge&logoColor=white"/>
+
 </div>
 
 <br/>
 
----
-
-## ⚙️ &nbsp; `> TECH_STACK`
+<table align="center">
+<tr>
+<td align="center"><b>GAMEPLAY</b></td>
+<td align="center"><b>NETWORKING</b></td>
+<td align="center"><b>TOOLS</b></td>
+<td align="center"><b>3D / XR</b></td>
+</tr>
+<tr>
+<td>Game Systems</td>
+<td>Mirror</td>
+<td>Editor Scripting</td>
+<td>Blender</td>
+</tr>
+<tr>
+<td>Vehicle Physics</td>
+<td>Photon Fusion</td>
+<td>Custom Inspectors</td>
+<td>AR Foundation</td>
+</tr>
+<tr>
+<td>Input System</td>
+<td>Network Physics</td>
+<td>ScriptableObjects</td>
+<td>VR Prototyping</td>
+</tr>
+<tr>
+<td>AI / Interaction</td>
+<td>Co-op Systems</td>
+<td>Asset Publishing</td>
+<td>Low-Poly Art</td>
+</tr>
+</table>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,blender,unreal,photoshop,git,visualstudio,js&theme=dark" />
-</div>
 
-<br/>
-
-<div align="center">
-
-| Engine | Language | 3D Tool | Graphics | VCS |
-|:------:|:--------:|:-------:|:--------:|:---:|
-| ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black) | ![C#](https://img.shields.io/badge/C%23-534AB7?style=flat-square&logo=csharp&logoColor=white) | ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) | ![PS](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![UE5](https://img.shields.io/badge/Unreal_5-0E1128?style=flat-square&logo=unrealengine&logoColor=white) | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | AR Foundation | Visual Studio | Git LFS |
+🚀 CURRENT_MISSION
 
 </div>
-
-<br/>
-
----
-
-## 🕹️ &nbsp; `> FEATURED_PROJECTS`
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-### 🥽 AR Chachiya Filter
-![AR](https://img.shields.io/badge/AR_Foundation-1D9E75?style=flat-square&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-534AB7?style=flat-square)
-![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity)
+🚲 Flying Tandem — Co-op Adventure
 
-> Augmented reality filter experience — interactive AR overlay with real-time camera effects and Tunisian cultural flair.
+Two players. One ridiculous homemade flying bicycle. One very long way home.
 
-[→ View Repo](https://github.com/Achraf-ghazouani/AR-Chachiya-Filter)
+The game starts after a crash in a remote place. The players rebuild what is left into a chaotic flying tandem bicycle and travel through different regions while upgrading, repairing, crashing, exploring, and trying to get home.
 
-</td>
-<td width="50%" valign="top">
+Systems in development
 
-### 🚁 AR Drone Simulator
-![AR](https://img.shields.io/badge/AR_Foundation-1D9E75?style=flat-square&logo=unity&logoColor=white)
-![Physics](https://img.shields.io/badge/Physics_Sim-534AB7?style=flat-square)
-![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity)
+CO-OP CONTROLS · FLIGHT PHYSICS · MULTIPLAYER · UPGRADES
 
-> Fly and control a drone in augmented reality — full physics simulation layered over the real world via AR.
+REPAIRS · EXPLORATION · OBSTACLES · LOW-POLY WORLD
 
-[→ View Repo](https://github.com/Achraf-ghazouani/AR-Drone-Simulator)
+<br/>
+
+
+
+
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="40%" align="center" valign="middle">
 
-### 🧠 Cogite
-![Puzzle](https://img.shields.io/badge/Puzzle_Game-BA7517?style=flat-square)
-![C#](https://img.shields.io/badge/C%23-534AB7?style=flat-square)
-![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity)
+        ╭──────────────╮
+        │  ⚙ ROTOR     │
+        ╰──────┬───────╯
+               │
+       🚲━━━━━━┿━━━━━━🚲
+        P1     │      P2
+               │
+          ☁️   ↓   ☁️
 
-> Cognitive challenge game testing reflexes and mental agility through increasingly complex levels.
-
-[→ View Repo](https://github.com/Achraf-ghazouani/Cogite)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏎️ Racing With Friends
-![Multi](https://img.shields.io/badge/Multiplayer-1D9E75?style=flat-square)
-![C#](https://img.shields.io/badge/C%23-534AB7?style=flat-square)
-![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity)
-
-> Real-time multiplayer racing — compete against friends with dynamic tracks and smooth netcode.
-
-[→ View Repo](https://github.com/Achraf-ghazouani/Racing-With-Friends)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💨 The Last Breath
-![Survival](https://img.shields.io/badge/Survival-993C1D?style=flat-square)
-![C#](https://img.shields.io/badge/C%23-534AB7?style=flat-square)
-![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity)
-
-> High-tension survival game where every decision shapes your fate in a dark atmospheric world.
-
-[→ View Repo](https://github.com/Achraf-ghazouani/The-Last-Breath)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 Coloriage
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Canvas](https://img.shields.io/badge/Canvas_API-1D9E75?style=flat-square)
-![Web](https://img.shields.io/badge/Web_App-534AB7?style=flat-square)
-
-> Interactive digital coloring book with smooth canvas drawing tools for all ages.
-
-[→ View Repo](https://github.com/Achraf-ghazouani/coloriage)
+     [ GET HOME ]
 
 </td>
 </tr>
 </table>
 
-<br/>
-
----
-
-## 🏢 &nbsp; `> SAKANFAR_PRODUCTIONS`
-
-<div align="center">
-  <a href="https://sakanfar-productions.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_sakanfar--productions.vercel.app-534AB7?style=for-the-badge&logoColor=white&labelColor=26215C"/>
-  </a>
-  &nbsp;
-  <a href="https://assetstore.unity.com/publishers/117240">
-    <img src="https://img.shields.io/badge/🏪_Asset_Store_%23117240-1D9E75?style=for-the-badge&logoColor=white&labelColor=085041"/>
-  </a>
-</div>
-
-<br/>
-
 <div align="center">
 
-| | Stat | Value |
-|:--:|:--|:--|
-| 📦 | Assets Published | **4+ on Unity Asset Store** |
-| 👨‍💻 | Developers Reached | **2,000+ worldwide** |
-| ⭐ | Average Rating | **4 stars** |
-| 🌍 | Languages | **English · French · Arabic** |
-| 🆔 | Publisher ID | **#117240** |
+🧰 SAKANFAR_TOOLBOX
+
+Unity tools built for real development workflows.
 
 </div>
 
+<table>
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+📁 Folder Organizer
+
+Organize Unity project folders faster and keep project structures clean.
+
 <br/>
 
-> *Production-ready Unity tools, editor scripts, and game assets — built to Asset Store standards and used by developers globally.*
+<a href="https://assetstore.unity.com/packages/tools/gui/sakanfar-folder-organizer-393756">
+<img src="https://img.shields.io/badge/VIEW_ASSET-00B894?style=for-the-badge&logo=unity&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+📸 Advanced Photo Mode
+
+A reusable photo mode system designed for Unity projects.
 
 <br/>
 
----
+<a href="https://assetstore.unity.com/publishers/117240">
+<img src="https://img.shields.io/badge/VIEW_ASSET-534AB7?style=for-the-badge&logo=unity&logoColor=white"/>
+</a>
 
-## 📊 &nbsp; `> GITHUB_STATS`
+</td>
+
+<td width="33%" align="center" valign="top">
+
+⚡ Auto Compiler v2
+
+A Unity workflow utility focused on faster iteration and automation.
+
+<br/>
+
+<a href="https://assetstore.unity.com/publishers/117240">
+<img src="https://img.shields.io/badge/VIEW_ASSET-00B8D9?style=for-the-badge&logo=unity&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=achraf-ghazouani&show_icons=true&theme=tokyonight&hide_border=true&title_color=534AB7&icon_color=1D9E75&text_color=FFFFFF&bg_color=0d1117" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=achraf-ghazouani&theme=tokyonight&hide_border=true&ring=534AB7&fire=BA7517&currStreakLabel=1D9E75" height="160"/>
-</div>
 
-<br/>
+<a href="https://assetstore.unity.com/publishers/117240">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_SAKANFAR_ASSETS-0D1117?style=for-the-badge&logo=unity&logoColor=00E5A8"/>
+</a>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achraf-ghazouani&layout=compact&theme=tokyonight&hide_border=true&title_color=534AB7&text_color=FFFFFF&bg_color=0d1117" height="140"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=achraf-ghazouani&theme=tokyo-night&hide_border=true&color=534AB7&line=1D9E75&point=BA7517" width="95%"/>
-</div>
-
-<br/>
-
----
-
-## ⚡ &nbsp; `> WORKFLOW`
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   🧠 Gameplay Logic    🎮 Game Design    🧱 Level Building  │
-│                                                             │
-│   🎨 Asset Integration  🧩 UI/UX        🥽 VR/AR Mechanics │
-│                                                             │
-│   💾 Git + LFS          🔥 Mobile Opt   📦 Asset Publishing │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<br/>
-
----
-
-## 🌐 &nbsp; `> CONNECT`
-
-<div align="center">
-  <a href="https://sakanfar-productions.vercel.app">
-    <img src="https://img.shields.io/badge/Studio-534AB7?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/achrafghazouani/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/sakanfar">
-    <img src="https://img.shields.io/badge/Twitter-1D9E75?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/sakanfar/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.behance.net/achrafghazouani">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:achraf.ghazouani5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-BA7517?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
-
-<br/>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=120&section=footer&text=Play.+Build.+Inspire.&fontSize=24&fontColor=FFFFFF&fontAlignY=65&animation=fadeIn"/>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=achraf-ghazouani&style=for-the-badge&color=534AB7&label=PROFILE+VIEWS"/>
+
+🎮 SELECTED_PROJECTS
+
+</div>
+
+<table>
+
+<tr>
+<td width="50%" valign="top">
+
+🏎️ Racing With Friends
+
+Real-time multiplayer racing game
+
+Unity C# Multiplayer
+
+▶ Open Repository
+
+</td>
+<td width="50%" valign="top">
+
+🚁 AR Drone Simulator
+
+Physics-driven augmented reality drone experience
+
+Unity AR Foundation Physics
+
+▶ Open Repository
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+🥽 AR Chachiya Filter
+
+Tunisian-inspired interactive AR experience
+
+Unity AR Camera Effects
+
+▶ Open Repository
+
+</td>
+
+<td width="50%" valign="top">
+
+🧠 Cogite
+
+Puzzle game built around cognitive challenges
+
+Unity C# Game Design
+
+▶ Open Repository
+
+</td>
+</tr>
+
+</table>
+
+<div align="center">
+
+📈 ACTIVITY_MONITOR
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=achraf-ghazouani&bg_color=0D1117&color=9D8CFF&line=00E5A8&point=FFFFFF&area=true&hide_border=true&custom_title=Achraf%27s%20Development%20Activity" width="96%" alt="Activity graph"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=achraf-ghazouani&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5A8&fire=FF4D8D&currStreakLabel=9D8CFF&sideLabels=FFFFFF" height="190" alt="GitHub streak"/>
+
+</div>
+
+<div align="center">
+
+🐍 CONTRIBUTION_RUN
+
+<p><i>The snake updates automatically using GitHub Actions.</i></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Achraf-ghazouani/Achraf-ghazouani/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Achraf-ghazouani/Achraf-ghazouani/output/github-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Achraf-ghazouani/Achraf-ghazouani/output/github-snake-dark.svg">
+</picture>
+
+</div>
+
+<div align="center">
+
+🌐 CONNECT_TO_SERVER
+
+<a href="https://sakanfar-productions.vercel.app">
+<img src="https://img.shields.io/badge/PORTFOLIO-534AB7?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/achrafghazouani/">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/sakanfar/">
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.behance.net/achrafghazouani">
+<img src="https://img.shields.io/badge/BEHANCE-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:achraf.ghazouani5@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-FFB000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║              🎮  PLAY  •  BUILD  •  INSPIRE  🚀             ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00E5A8,50:534AB7,100:24135F&animation=fadeIn"/>
+
 </div>
